@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+.vscode/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Build and output directories
+dist/
+build/
+temp/
+out/
+.cache/
+
+# Three.js assets
+assets/textures/
+assets/models/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+
+# Env files
+.env
+.env.local
+.env.*.local
